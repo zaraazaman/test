@@ -6,4 +6,5 @@ int a;
   cin>>a;
   int b = 9;
   cout << b;
+  cout << "Hello world";
 }
